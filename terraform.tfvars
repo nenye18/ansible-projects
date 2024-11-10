@@ -1,0 +1,8 @@
+vpc_cidr_block = "10.0.0.0/16"
+subnet_cidr_block = "10.0.10.0/24"
+avail_zone ="us-east-1"
+env_prefix ="dev"
+my_ip = "100.155.80.85"
+instance_type ="t2.micro"
+#public_key_location = "/Users/nenye/.ssh/id_rsa.pub"
+image_name = "al2023-ami-2023.*-x86_64"
