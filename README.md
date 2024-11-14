@@ -1,5 +1,5 @@
 
-## PROVISION ANSIBLE WITH DOCKER
+## PROVISION DOCKER WITH ANSIBLE
 
 ## Technologies Used
 Ansible, AWS, Docker, Terraform, Linux
